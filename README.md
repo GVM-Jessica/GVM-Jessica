@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Jessica.
 
-<!--
-**GVM-Jessica/GVM-Jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stacks:
 
-Here are some ideas to get you started:
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/>
+    <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" alt="css3"/>
+    <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="javascript"/>
+    <img align="center" src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js" alt="vue"/>
+    <img align="center" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="php"/>
+    <img align="center" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="mysql"/>
+    <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="git"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact:
+
+<p align="left">
+  <a href="mailto:jessica@gvmsistemas.com.br" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="gmail"/>
+  </a>
+</p>
+
+<br>
