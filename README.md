@@ -1,4 +1,6 @@
-## Hi, I'm Jessica.
+<p align="center">
+    <img width="50%" alt="Hi, I'm Jessica" src="./assets/github-transparente.png" />
+</p>
 
 ### Stacks:
 
